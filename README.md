@@ -12,7 +12,7 @@ Une projet qui consiste à controller les personnes qui entrent et sortent d'un 
     Reduire le nombre des personnes atteints de la maladie
 
 # Outils utilisés:
-#   Materiels:
+##   Materiels:
         - Microcontrolleur ARDUINO
         - ServoMoteur
         - Capteurs Ultrason
@@ -22,9 +22,10 @@ Une projet qui consiste à controller les personnes qui entrent et sortent d'un 
         - Cables/ fils electriques / connecteurs USB
 
 
-#   Languages:
+##   Languages:
         - Python
         - JavaScript
         - C++ (Arduino)
         - SQL
+        - Batch
         - ...
