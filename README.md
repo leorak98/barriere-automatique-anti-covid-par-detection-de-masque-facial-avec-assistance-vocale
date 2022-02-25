@@ -26,4 +26,5 @@ Une projet qui consiste à controller les personnes qui entrent et sortent d'un 
         - Python
         - JavaScript
         - C++ (Arduino)
-        - 
+        - SQL
+        - ...
